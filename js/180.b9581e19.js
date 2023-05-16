@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[180],{42180:function(l,n,e){e.r(n),e.d(n,{default:function(){return i}});var r=function(){var l=this;l._self._c;return l._m(0)},u=[function(){var l=this,n=l._self._c;return n("div",[n("h1",[l._v("This is Ly page")]),n("hr")])}],t=e(1001),s={},h=(0,t.Z)(s,r,u,!1,null,null,null),i=h.exports}}]);
+//# sourceMappingURL=180.b9581e19.js.map
